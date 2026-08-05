@@ -8,6 +8,7 @@
 # keep source under cmd/
 !cmd/
 !cmd/**/*
+cmd/.DS_Store
 
 # Go
 *.test
